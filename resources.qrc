@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/BlackDragon.PNG</file>
+        <file>images/book.PNG</file>
+        <file>images/button.PNG</file>
+        <file>images/cave_1.PNG</file>
+        <file>images/cave_2.PNG</file>
+        <file>images/dallapolik.PNG</file>
+        <file>images/GreenDragon.PNG</file>
+        <file>images/gym.PNG</file>
+        <file>images/Hero.png</file>
+        <file>images/pixel.ttf</file>
+        <file>images/protein.PNG</file>
+        <file>images/RedDragon.PNG</file>
+        <file>images/seller.PNG</file>
+        <file>images/shop.PNG</file>
+    </qresource>
+</RCC>
